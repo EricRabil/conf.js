@@ -1,0 +1,16 @@
+{
+  "name": "conf.js",
+  "version": "1.0.0",
+  "description": "A tiny configuration library for easy loading/saving/defaulting",
+  "main": "out/index.js",
+  "repository": "https://github.com/EricRabil/conf.js.git",
+  "author": "EricRabil <ericjrabil@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.2"
+  }
+}
